@@ -6,7 +6,7 @@ Most of the projects here are simple exercises meant to help me understand progr
 
 ---
 
-## Projects
+## Example Projects
 
 ### Tic-Tac-Toe
 
